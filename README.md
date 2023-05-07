@@ -1,4 +1,6 @@
-### 👋
+### 
+- 👋 Hi, I'm Ravisanka.
+- 🌱 I’m currently learning Programming..
 
 <!--
 **RavisankaS/RavisankaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
