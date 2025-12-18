@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Programming.
 - 👀 I am interested in cloud computing.
 - 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...> Gmail: ravisankasiriwardenage@gmail.com 
+- 📫 How to reach me: ...> Gmail: ravisankarash@gmail.com 
 
 <!--
 **RavisankaS/RavisankaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
