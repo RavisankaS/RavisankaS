@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=1a1b27&height=200&section=header&text=BANUKA%20AMBEGODA&fontSize=65&animation=twinkling&fontColor=58a6ff&desc=STATUS:%20READY%20|%20LOCATION:%20TORONTO&descAlignY=65&descSize=15" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=1a1b27&height=200&section=header&text=Ravisanka%20Abeyrathne&fontSize=65&animation=twinkling&fontColor=58a6ff&desc=STATUS:%20READY%20|%20LOCATION:%20TORONTO&descAlignY=65&descSize=15" width="100%" />
 
   <h3>🚀 Software Engineer </h3>
 
