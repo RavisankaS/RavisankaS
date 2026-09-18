@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=1a1b27&height=200&section=header&text=Ravisanka%20Abeyrathne&fontSize=65&animation=twinkling&fontColor=58a6ff&desc=STATUS:%20READY%20"width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=1a1b27&height=230&section=header&text=Ravisanka%20Abeyrathne&fontSize=55&animation=twinkling&fontColor=58a6ff&desc=STATUS:%20READY&descSize=18&descAlignY=75&width=100%" width="100%" />
 
   <h3>🚀 Software Engineer </h3>
 
